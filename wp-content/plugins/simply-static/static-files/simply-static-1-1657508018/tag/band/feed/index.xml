@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>band &#8211; Jean Website</title>
+	<atom:link href="http://localhost/htdocs/wp_jean_website/tag/band/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/Sammy-Jean/wp_jean_website.git</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 11 Jul 2022 02:40:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/cropped-logo-32x32.webp</url>
+	<title>band &#8211; Jean Website</title>
+	<link>/https://github.com/Sammy-Jean/wp_jean_website.git</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Favorite Band</title>
+		<link>/https://github.com/Sammy-Jean/wp_jean_website.git/2022/07/11/favorite-band/</link>
+		
+		<dc:creator><![CDATA[Sammy-Jean]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 02:40:22 +0000</pubDate>
+				<category><![CDATA[General Post]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[greenday]]></category>
+		<guid isPermaLink="false">/https://github.com/Sammy-Jean/wp_jean_website.git/?p=55</guid>
+
+					<description><![CDATA[I like Greenday]]></description>
+										<content:encoded><![CDATA[
+<p>I like Greenday </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

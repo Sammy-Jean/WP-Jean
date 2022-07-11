@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jean Website</title>
+	<atom:link href="http://localhost/htdocs/wp_jean_website/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/Sammy-Jean/wp_jean_website.git</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 11 Jul 2022 02:45:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/cropped-logo-32x32.webp</url>
+	<title>Jean Website</title>
+	<link>/https://github.com/Sammy-Jean/wp_jean_website.git</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Image Gallery </title>
+		<link>/https://github.com/Sammy-Jean/wp_jean_website.git/2022/07/11/my-image-gallery/</link>
+		
+		<dc:creator><![CDATA[Sammy-Jean]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 02:45:10 +0000</pubDate>
+				<category><![CDATA[General Post]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<guid isPermaLink="false">/https://github.com/Sammy-Jean/wp_jean_website.git/?p=58</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img src="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/logo-1-1024x682.webp" alt="" class="wp-image-59" width="512" height="341" srcset="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/logo-1-1024x682.webp 1024w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/logo-1-300x200.webp 300w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/logo-1-768x511.webp 768w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/logo-1.webp 1200w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>My Favorite Sports team </figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" src="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-1024x576.jpg" alt="" class="wp-image-60" width="512" height="288" srcset="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-1024x576.jpg 1024w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-300x169.jpg 300w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-768x432.jpg 768w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-1536x864.jpg 1536w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/0FC64016-8AB2-4469-9A9A-66A2822F68BD-2048x1152.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>Nikki &#8211; My Wife </figcaption></figure></div>
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" src="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-576x1024.jpg" alt="" class="wp-image-61" width="288" height="512" srcset="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-576x1024.jpg 576w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-169x300.jpg 169w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-768x1365.jpg 768w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-864x1536.jpg 864w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-1152x2048.jpg 1152w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/51C8F6AF-076F-432B-BB61-C9914C07AA6D-scaled.jpg 1440w" sizes="(max-width: 288px) 100vw, 288px" /><figcaption>Farm Animals </figcaption></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" src="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-576x1024.jpg" alt="" class="wp-image-62" width="288" height="512" srcset="/https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-576x1024.jpg 576w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-169x300.jpg 169w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-768x1365.jpg 768w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-864x1536.jpg 864w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-1152x2048.jpg 1152w, /https://github.com/Sammy-Jean/wp_jean_website.git/wp-content/uploads/2022/07/BAFA957E-2467-47FB-8FEA-CC8B7B25EF93-scaled.jpg 1440w" sizes="(max-width: 288px) 100vw, 288px" /><figcaption>Playing with our dogs</figcaption></figure></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Favorite Band</title>
+		<link>/https://github.com/Sammy-Jean/wp_jean_website.git/2022/07/11/favorite-band/</link>
+		
+		<dc:creator><![CDATA[Sammy-Jean]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 02:40:22 +0000</pubDate>
+				<category><![CDATA[General Post]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[greenday]]></category>
+		<guid isPermaLink="false">/https://github.com/Sammy-Jean/wp_jean_website.git/?p=55</guid>
+
+					<description><![CDATA[I like Greenday]]></description>
+										<content:encoded><![CDATA[
+<p>I like Greenday </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Favorite Food</title>
+		<link>/https://github.com/Sammy-Jean/wp_jean_website.git/2022/07/11/favorite-food-sammy/</link>
+		
+		<dc:creator><![CDATA[Sammy-Jean]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 02:29:51 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<guid isPermaLink="false">/https://github.com/Sammy-Jean/wp_jean_website.git/?p=43</guid>
+
+					<description><![CDATA[My Favorite food is Spaghetti and meatballs!]]></description>
+										<content:encoded><![CDATA[
+<p>My Favorite food is Spaghetti and meatballs! </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WELCOME</title>
+		<link>/https://github.com/Sammy-Jean/wp_jean_website.git/2022/07/11/welcome-post/</link>
+		
+		<dc:creator><![CDATA[Sammy-Jean]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 02:29:10 +0000</pubDate>
+				<category><![CDATA[General Post]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<guid isPermaLink="false">/https://github.com/Sammy-Jean/wp_jean_website.git/?p=40</guid>
+
+					<description><![CDATA[WELCOME TO MY AWESOME SITE!]]></description>
+										<content:encoded><![CDATA[
+<p>WELCOME TO MY AWESOME SITE! </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
